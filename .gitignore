@@ -3,6 +3,8 @@
 
 ### Eclipse ###
 .metadata
+.angular
+node_modules/
 bin/
 tmp/
 *.tmp
